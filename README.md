@@ -7,3 +7,7 @@ Veriler tamamen sallanmış olduğundan, beğenmezseniz istediğiniz düzenlemey
 Örnekler için [buraya](./EXAMPLES.txt) bakabilirsiniz (sanırım küfür içerir uyarısı vermeme gerek yok?).
 
 ![drunk cat](https://sync.gurkan.in/reaction/drunk_cat.jpg)
+
+
+### 🚀 Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yigitcanb3y/k-f-r_bot)
