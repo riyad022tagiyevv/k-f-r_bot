@@ -1,6 +1,5 @@
 {
   "name": "Küfür botu orspu çoxu"
-  "logo": ""
   "description": "Bu botun amacı size küfür etmek amk .!"
   "env": {  
     "BOT_TOKEN": {
