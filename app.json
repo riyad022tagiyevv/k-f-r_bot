@@ -1,6 +1,6 @@
 {
-  "name": "Küfür botu orspu çoxu"
-  "description": "Bu botun amacı size küfür etmek amk .!"
+  "name": "Küfür botu orspu çoxu",
+  "description": "Bu botun amacı size küfür etmek amk .!",
   "env": {  
     "BOT_TOKEN": {
       "description": "bot token girin.",
