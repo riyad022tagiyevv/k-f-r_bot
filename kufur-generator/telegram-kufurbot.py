@@ -59,7 +59,7 @@ def inline_caps(update, context):
 def main():
     # Create the EventHandler and pass it your bot's token.
     updater = Updater(
-        getenv('5639009391:AAHW1EffUQzxEAaHG819TUUQtqpAIH31Zrk'),
+        getenv('7246915007:AAHa_Pn-_pf3jsnFL_sUeFBMcMAIblJ-gjk'),
         use_context=True
     )
 
